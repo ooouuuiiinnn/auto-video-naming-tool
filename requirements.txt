@@ -1,0 +1,12 @@
+# 视频批量命名工具 — Python 依赖
+# Python >= 3.13（conda base 环境）
+# 安装方式: pip install -r requirements.txt
+
+# Web UI 框架
+gradio>=4.44.1
+
+# HTTP 请求 — 调用 Ollama API
+requests>=2.32.0
+
+# 注意：抽帧使用 FFmpeg（系统工具），不需要 Python 包
+# 请确保 FFmpeg 已安装并在 PATH 中：ffmpeg -version
