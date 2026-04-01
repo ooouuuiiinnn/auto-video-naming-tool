@@ -2,7 +2,7 @@
 
 基于本地 Ollama 多模态大模型，智能分析视频内容并批量生成标准化文件名。
 
-**注意：AI生成文件名有一定错误率，此项目旨在减少后期剪辑时找镜头场景的时间，仅为大致命名，非详细台词本命名。**
+**📢注意：AI生成文件名有一定错误率，此项目旨在减少后期剪辑时找镜头场景的时间，仅为大致命名，非详细台词本命名。**
 
 
 
@@ -15,8 +15,8 @@
 ## 运行示例
 
 <div style="display: flex; gap: 16px; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/5d712c8f-4eba-4b7d-abaa-9c20144ddf3f" alt="Image 1" />
-  <img src="https://github.com/user-attachments/assets/67b46403-e001-47cf-9a91-63fffde610e1" alt="Image 2" />
+  <img tyle="max-width: 48%; height: auto;" src="https://github.com/user-attachments/assets/5d712c8f-4eba-4b7d-abaa-9c20144ddf3f" alt="Image 1" />
+  <img tyle="max-width: 48%; height: auto;" src="https://github.com/user-attachments/assets/67b46403-e001-47cf-9a91-63fffde610e1" alt="Image 2" />
 
 
 
