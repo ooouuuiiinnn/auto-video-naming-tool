@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
 ![version](https://img.shields.io/badge/version-v3.5.6-blue)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## 命名格式
 
