@@ -10,7 +10,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-Runs%20on%20Ollama-4385f4?logo=ollama&logoColor=white)](https://ollama.com)
 [![Python 3.11.15](https://img.shields.io/badge/Python-3.11.15-blue?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-31115/)
 [![Conda 25.5.1](https://img.shields.io/badge/Conda-25.5.1-44A833?logo=anaconda&logoColor=white)](https://docs.conda.io/)
-[![Gemma3](https://img.shields.io/badge/Gemma-2B%2F7B%2F9B%2F27B-4285F4?logo=google&lo)
+
 
 ## 命名格式
 
