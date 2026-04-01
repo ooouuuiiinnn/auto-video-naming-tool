@@ -1,6 +1,9 @@
-# 🎬 视频批量命名工具
+# 🎬 视频批量命名工具 By:ooouuuiii
 
 基于本地 Ollama 多模态大模型，智能分析视频内容并批量生成标准化文件名。
+
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
+![version](https://img.shields.io/badge/version-v3.5.6-blue)
 
 ## 命名格式
 
@@ -29,7 +32,7 @@
 选择视频文件 → FFmpeg 每5帧抽取1帧 → 均匀选取最多8张代表帧 → Ollama 多模态模型分析 → 生成标准化命名 → 复制到输出目录
 ```
 
-1. **抽帧**：使用 FFmpeg 从视频中每隔 5 帧抽取 1 帧（支持 MKV/H.265/AV1 等所有格式）
+1. **抽帧**：使用 FFmpeg 从视频中每隔 `5` 帧抽取 `1` 帧（支持 `MKV/H.265/AV1` 等所有格式）
 2. **选帧**：从抽取的帧中均匀选取最多 8 张代表帧（始终包含首尾帧）
 3. **分析**：将代表帧发送给本地 Ollama 多模态模型进行内容识别
 4. **命名**：根据分析结果生成标准命名，复制原视频到输出目录并重命名
@@ -65,7 +68,7 @@ ollama pull gemma3:4b
 ### 2. 安装 FFmpeg
 
 ```bash
-# Windows: 下载 https://ffmpeg.org/download.html 并添加到 PATH
+# Windows: 下载 `https://ffmpeg.org/download.html` 并添加到 PATH
 # macOS:
 brew install ffmpeg
 # Ubuntu:
@@ -84,7 +87,7 @@ pip install -r requirements.txt
 # 方式一：直接运行
 python main.py
 
-# 方式二（Windows）：双击 启动工具.bat，可查看实时日志
+# 方式二（Windows）：双击 `启动工具.bat`，可查看实时日志
 ```
 
 启动后浏览器会自动打开 `http://localhost:7860`。
