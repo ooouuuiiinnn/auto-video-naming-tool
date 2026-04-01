@@ -1,6 +1,7 @@
-# 🎬 视频批量命名工具 By:ooouuuiii
+# 🎬 砍柴视频批量命名工具 By:ooouuuiii
 
 基于本地 Ollama 多模态大模型，智能分析视频内容并批量生成标准化文件名。
+注意：AI生成文件名有一定错误率，此项目旨在减少后期剪辑时找镜头场景的时间，仅为大致命名，非详细台词本命名。
 
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
 ![version](https://img.shields.io/badge/version-v3.5.6-blue)
