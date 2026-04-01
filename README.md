@@ -5,11 +5,16 @@
 **注意：AI生成文件名有一定错误率，此项目旨在减少后期剪辑时找镜头场景的时间，仅为大致命名，非详细台词本命名。**
 
 
+
 ![version](https://img.shields.io/badge/version-v3.5.6-blue)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Ollama](https://img.shields.io/badge/Ollama-Runs%20on%20Ollama-4385f4?logo=ollama&logoColor=white)](https://ollama.com)
 [![Python 3.11.15](https://img.shields.io/badge/Python-3.11.15-blue?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-31115/)
 [![Conda 25.5.1](https://img.shields.io/badge/Conda-25.5.1-44A833?logo=anaconda&logoColor=white)](https://docs.conda.io/)
+
+## 运行示例
+
+<img width="1653" height="852" alt="image" src="https://github.com/user-attachments/assets/5d712c8f-4eba-4b7d-abaa-9c20144ddf3f" />
 
 
 ## 命名格式
