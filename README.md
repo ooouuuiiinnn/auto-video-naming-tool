@@ -14,7 +14,6 @@
 
 ## 运行示例
 
-| 图1 | 图2 |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/5d712c8f-4eba-4b7d-abaa-9c20144ddf3f" width="600" /> | <img src="https://github.com/user-attachments/assets/67b46403-e001-47cf-9a91-63fffde610e1" width="600" /> |
 
