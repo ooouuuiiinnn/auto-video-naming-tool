@@ -9,7 +9,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Ollama](https://img.shields.io/badge/Ollama-Runs%20on%20Ollama-4385f4?logo=ollama&logoColor=white)](https://ollama.com)
 [![Python 3.11.15](https://img.shields.io/badge/Python-3.11.15-blue?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-31115/)
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/your-package-name.svg)](https://anaconda.org/conda-forge/your-package-name)
+[![Conda 25.5.1](https://img.shields.io/badge/Conda-25.5.1-44A833?logo=anaconda&logoColor=white)](https://docs.conda.io/)
 
 ## 命名格式
 
