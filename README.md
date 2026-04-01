@@ -49,6 +49,8 @@
 - **FFmpeg**（系统工具，需在 PATH 中）
 - **操作系统**：Windows / macOS / Linux
 
+- **亲测可用**：`Win11` `VScode` `conda虚拟环境` `python3.11.15`
+
 ### 支持的视频格式
 
 `.mp4` `.avi` `.mkv` `.mov` `.wmv` `.flv` `.webm` `.m4v` `.mts` `.m2ts`
