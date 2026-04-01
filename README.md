@@ -134,4 +134,4 @@ REQUEST_TIMEOUT = 300                  # 模型推理超时（秒）
 
 ## License
 
-MIT
+GPL 3.0
